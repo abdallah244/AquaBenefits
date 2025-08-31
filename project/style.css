@@ -181,6 +181,7 @@ body {
   height: 2px;
   background: #64ffda;
   transition: width 0.3s ease;
+  
 }
 
 .nav-link:hover::after {
